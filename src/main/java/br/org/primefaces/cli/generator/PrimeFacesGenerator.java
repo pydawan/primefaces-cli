@@ -7,7 +7,7 @@ import static br.org.jext.StringUtil.capitalize;
  * @version v1.0.0 10/09/2017
  * @since v1.0.0
  */
-public class PrimefacesGenerator {
+public class PrimeFacesGenerator {
    
    public static void generateModel(String _package, String name) {
       _package = _package == null ? "" : _package.trim();
